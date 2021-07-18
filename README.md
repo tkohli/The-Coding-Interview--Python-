@@ -5,5 +5,10 @@ We will start by first defining the scope of this repo.<br>
 We will cover Data structure, Algorithms and Programming Concepts.
 | Data structure      | Algorithms | Programming Concepts     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Array and lists     |  Quick Sort  | Big O Time & Space |
+| Stacks & Queues      | Binary Search      |   Recursion    |
+| Linked Lists    | Merge Sort       | Bit Manipulation  |
+| Heaps      |    Breadth-First Search   |     Dynamic Programming  |
+| Trees,  Graphs   | Depth-First Search       | Memory (Stack vs. Heap)      |
+And also hash tables.
+This is just a categorization and not the syllabus so yes topics are not written here
