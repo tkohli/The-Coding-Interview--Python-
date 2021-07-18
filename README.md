@@ -10,5 +10,7 @@ We will cover Data structure, Algorithms and Programming Concepts.
 | Linked Lists    | Merge Sort       | Bit Manipulation  |
 | Heaps      |    Breadth-First Search   |     Dynamic Programming  |
 | Trees,  Graphs   | Depth-First Search       | Memory (Stack vs. Heap)      |
+
+
 And also hash tables.
 This is just a categorization and not the syllabus so yes topics are not written here
