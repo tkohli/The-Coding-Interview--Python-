@@ -71,3 +71,15 @@ So now we have a complete solution for our problem, you always modify this proce
 https://www.hackerearth.com/practice/
 <br>
 More resources will be added while working on them.
+
+
+
+# Contributions
+How to Contribute create a pull request and then provide description,<br>
+it will get merged very soon.
+
+
+# Working with this
+Fork this repo and change the check marks from unchecked to checked.
+<br>
+Hope you all find this useful and thank you for contribution in advance. 
