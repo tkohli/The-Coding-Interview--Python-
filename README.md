@@ -48,6 +48,6 @@ Testing your final solution by some small test cases, some big test case, and al
 So now we have a complete solution for our problem, you always modify this process to be more effective but, this is what I recommend all new comers to go through.
 
 ## Syllabus
-[] Data Structures 
+[ ] Data Structures 
 
 
