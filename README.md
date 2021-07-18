@@ -27,4 +27,9 @@ We can end up finding some cool pattern hidden in solved examples if we play clo
 #### 3. Brute Force 
 Coming up with more basic and naive solution helps us in breaking the problem and works as our first milestone. This step is more important for beginners (including me) as we can find more insights after solving this problem.
 #### 4. Optimization
-The is the part for which we all are working. Solving a problem is not a that big challenge optimizing it, is.     
+The is the part for which we all are working. Solving a problem is not a that big challenge optimizing it, is. take this as a heart of DSA your whole life depends on it.<br>    
+So how we do this 
+<ol>
+<li>Reduce the unnecessary code.</li>
+</ol>
+
