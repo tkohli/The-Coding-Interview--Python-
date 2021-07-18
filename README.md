@@ -61,7 +61,7 @@ So now we have a complete solution for our problem, you always modify this proce
 | Algorithms and concept | Content |
 |----------------------|--------------------------|
 | Bit Manipulation| <ul>  <li>- [ ] Bit Facts and Tricks</li><li>- [ ] Two's Complement and Negative Numbers .</li><li>- [ ] Common Bit Tasks: Getting and Setting</li><li>- [ ] more problems</li></ul>|
-| Recursion and Dynamic Programming     | <ul>  <li>- [ ] Dynamic Programming & Memoizotion</li><li>- [ ] Recursive vs. Iterative Solutions</li></ul>|
+| Recursion and Dynamic Programming     | <ul>  <li>- [ ] Dynamic Programming & Memoization</li><li>- [ ] Recursive vs. Iterative Solutions</li></ul>|
 | Searching    | <ul>  <li>- [ ] Linear Search</li><li>- [ ] Binary Search</li></ul>|
 | Sorting   | <ul>  <li>- [ ] Bubble Sort</li><li>- [ ] Selection Sort</li><li>- [ ] Insertion Sort</li><li>- [ ] Merge Sort</li><li>- [ ] Quick Sort</li><li>- [ ] Heap Sort</li></ul>|
 | Graphs   | <ul>  <li>- [ ] Graph Representation</li><li>- [ ] Breadth First Search</li><li>- [ ] Depth First Search</li><li>- [ ] Minimum Spanning Tree</li><li>- [ ] Shortest Path Algorithms</li><li>- [ ] Hamiltonian Path</li><li>- [ ] Maximum flow</li><li>- [ ] Minimum Cost Maximum Flow</li></ul>|
