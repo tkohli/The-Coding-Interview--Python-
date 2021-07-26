@@ -82,4 +82,6 @@ it will get merged very soon.
 # Working with this
 Fork this repo and change the check marks from unchecked to checked.
 <br>
-Hope you all find this useful and thank you for contribution in advance. 
+Hope you all find this useful and thank you for contribution in advance. <br><br>
+
+We are first making all content and then we will update the full repo.
